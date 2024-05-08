@@ -1,9 +1,4 @@
-## Image Classification🐼🐶🐱 website💻 based on Deep Learning with Flask🐍
--> This website can recognise any image , you just need to upload image on server , I used Deep learning Resnet model for Image Classification
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-
+## Wound Image Classification
 
 ### Code Requirements
 - Flask(`pip install flask`)
@@ -22,5 +17,3 @@
 
 ### (2)
 <img src="https://github.com/Spidy20/Image_Classifier_Flask/blob/master/Screenshot%20(13).png">
-
-## Just follow☝️ me and Star⭐ my repository 
